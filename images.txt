@@ -1,7 +1,7 @@
 mysql:8.0.44
 mysql:8.0.33
 apache/hadoop:3.4
-apache/hadoop:3.3
+apache/hadoop:3.3.6
 apache/hadoop:2.10.2
 zookeeper:3.4.10
 zookeeper:3.9
