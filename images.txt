@@ -1,3 +1,4 @@
+justsong/one-api:v0.6.11-preview.7
 couchdb:3.5
 couchdb:latest
 minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
