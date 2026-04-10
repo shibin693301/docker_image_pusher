@@ -1,3 +1,4 @@
+bitnami/postgresql:latest
 docker.io/searxng/searxng:latest
 infiniflow/ragflow:v0.22.1
 infiniflow/ragflow:latest
