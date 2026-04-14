@@ -1,3 +1,4 @@
+python:3.11.15
 bitnami/postgresql:latest
 docker.io/searxng/searxng:latest
 infiniflow/ragflow:v0.22.1
